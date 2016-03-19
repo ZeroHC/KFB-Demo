@@ -1,0 +1,272 @@
+[26-Jan-2016 18:59:01 America/Chicago] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/team1/public_html/includes/Jassal_kfb.php on line 26
+[26-Jan-2016 18:59:01 America/Chicago] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/team1/public_html/includes/Jassal_kfb.php on line 26
+[26-Jan-2016 18:59:01 America/Chicago] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/Jassal_kfb.php on line 26
+[26-Jan-2016 18:59:01 America/Chicago] PHP Warning:  include(includes/footer.html): failed to open stream: No such file or directory in /home/team1/public_html/includes/Jassal_kfb.php on line 141
+[26-Jan-2016 18:59:02 America/Chicago] PHP Warning:  include(includes/footer.html): failed to open stream: No such file or directory in /home/team1/public_html/includes/Jassal_kfb.php on line 141
+[26-Jan-2016 18:59:02 America/Chicago] PHP Warning:  include(): Failed opening 'includes/footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/Jassal_kfb.php on line 141
+[26-Jan-2016 18:59:36 America/Chicago] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/team1/public_html/includes/Jassal_kfb.php on line 26
+[26-Jan-2016 18:59:36 America/Chicago] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/team1/public_html/includes/Jassal_kfb.php on line 26
+[26-Jan-2016 18:59:36 America/Chicago] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/Jassal_kfb.php on line 26
+[26-Jan-2016 18:59:36 America/Chicago] PHP Warning:  include(includes/footer.html): failed to open stream: No such file or directory in /home/team1/public_html/includes/Jassal_kfb.php on line 141
+[26-Jan-2016 18:59:36 America/Chicago] PHP Warning:  include(includes/footer.html): failed to open stream: No such file or directory in /home/team1/public_html/includes/Jassal_kfb.php on line 141
+[26-Jan-2016 18:59:36 America/Chicago] PHP Warning:  include(): Failed opening 'includes/footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/Jassal_kfb.php on line 141
+[26-Jan-2016 19:50:29 America/Chicago] PHP Fatal error:  Class 'Google_Service_Calendar_Calendar' not found in /home/team1/public_html/includes/calendar.php on line 46
+[26-Jan-2016 19:57:06 America/Chicago] PHP Fatal error:  Class 'Google_Service_Calendar_Calendar' not found in /home/team1/public_html/includes/calendar.php on line 46
+[26-Jan-2016 19:57:09 America/Chicago] PHP Fatal error:  Class 'Google_Service_Calendar_Calendar' not found in /home/team1/public_html/includes/calendar.php on line 46
+[26-Jan-2016 20:00:00 America/Chicago] PHP Parse error:  syntax error, unexpected '@' in /home/team1/public_html/includes/calendar.php on line 46
+[26-Jan-2016 20:00:03 America/Chicago] PHP Parse error:  syntax error, unexpected '@' in /home/team1/public_html/includes/calendar.php on line 46
+[26-Jan-2016 20:01:26 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/team1/public_html/includes/calendar.php on line 46
+[26-Jan-2016 20:01:27 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/team1/public_html/includes/calendar.php on line 46
+[26-Jan-2016 20:01:28 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/team1/public_html/includes/calendar.php on line 46
+[02-Feb-2016 23:59:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.html on line 49
+[03-Feb-2016 00:00:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.html on line 49
+[03-Feb-2016 00:00:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.html on line 49
+[03-Feb-2016 00:01:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.html on line 49
+[17-Feb-2016 18:29:09 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/team1/public_html/includes/contact.php on line 35
+[17-Feb-2016 19:17:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/team1/public_html/includes/contact.php on line 81
+[17-Feb-2016 19:20:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/team1/public_html/includes/contact.php on line 81
+[25-Feb-2016 17:48:36 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/team1/public_html/includes/login.php on line 3
+[25-Feb-2016 17:49:37 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/team1/public_html/includes/login.php on line 26
+[25-Feb-2016 17:49:37 America/Chicago] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/team1/public_html/includes/login.php on line 27
+[25-Feb-2016 18:03:29 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/team1/public_html/includes/login.php on line 28
+[25-Feb-2016 18:04:00 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/team1/public_html/includes/login.php on line 28
+[01-Mar-2016 14:34:27 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team1/public_html/includes/functions.php on line 4
+[01-Mar-2016 14:34:27 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/team1/public_html/includes/functions.php on line 4
+[01-Mar-2016 14:34:27 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team1/public_html/includes/functions.php on line 4
+[01-Mar-2016 14:34:27 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/team1/public_html/includes/functions.php on line 4
+[01-Mar-2016 14:34:27 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 25
+[01-Mar-2016 14:34:27 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 26
+[01-Mar-2016 14:35:00 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/login.php on line 7
+[01-Mar-2016 14:35:00 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/login.php on line 7
+[01-Mar-2016 14:35:00 America/Chicago] PHP Warning:  include(): Failed opening '../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/login.php on line 7
+[01-Mar-2016 14:35:00 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team1/public_html/includes/functions.php on line 4
+[01-Mar-2016 14:35:00 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/team1/public_html/includes/functions.php on line 4
+[01-Mar-2016 14:35:00 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team1/public_html/includes/functions.php on line 4
+[01-Mar-2016 14:35:00 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/team1/public_html/includes/functions.php on line 4
+[01-Mar-2016 14:35:00 America/Chicago] PHP Notice:  Undefined variable: con in /home/team1/public_html/includes/login.php on line 22
+[01-Mar-2016 14:35:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/includes/login.php on line 22
+[01-Mar-2016 14:35:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/team1/public_html/includes/login.php on line 23
+[01-Mar-2016 14:35:00 America/Chicago] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/team1/public_html/includes/login.php on line 24
+[01-Mar-2016 14:35:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 25
+[01-Mar-2016 14:35:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 26
+[01-Mar-2016 14:35:00 America/Chicago] PHP Notice:  Undefined variable: con in /home/team1/public_html/includes/login.php on line 35
+[01-Mar-2016 14:35:00 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/team1/public_html/includes/login.php on line 35
+[01-Mar-2016 14:35:12 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team1/public_html/includes/functions.php on line 4
+[01-Mar-2016 14:35:12 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/team1/public_html/includes/functions.php on line 4
+[01-Mar-2016 14:35:12 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team1/public_html/includes/functions.php on line 4
+[01-Mar-2016 14:35:12 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/team1/public_html/includes/functions.php on line 4
+[01-Mar-2016 14:35:12 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 25
+[01-Mar-2016 14:35:12 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 26
+[01-Mar-2016 14:37:24 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'team1_skfb'@'192.185.191.50' (using password: YES) in /home/team1/etc/db.php on line 2
+[01-Mar-2016 14:37:54 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team1/public_html/includes/functions.php on line 4
+[01-Mar-2016 14:37:54 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/team1/public_html/includes/functions.php on line 4
+[01-Mar-2016 14:37:54 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team1/public_html/includes/functions.php on line 4
+[01-Mar-2016 14:37:54 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/team1/public_html/includes/functions.php on line 4
+[01-Mar-2016 14:38:14 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/team1/public_html/includes/functions.php on line 4
+[01-Mar-2016 14:38:14 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/team1/public_html/includes/functions.php on line 4
+[01-Mar-2016 14:56:42 America/Chicago] PHP Notice:  Undefined index: secret in /home/team1/public_html/includes/login.php on line 10
+[01-Mar-2016 14:56:42 America/Chicago] PHP Notice:  Undefined index: secret in /home/team1/public_html/includes/login.php on line 10
+[01-Mar-2016 15:03:49 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/team1/public_html/includes/login.php on line 36
+[01-Mar-2016 15:04:02 America/Chicago] PHP Notice:  Undefined variable: user in /home/team1/public_html/includes/login.php on line 6
+[01-Mar-2016 15:04:02 America/Chicago] PHP Notice:  Undefined variable: user in /home/team1/public_html/includes/login.php on line 22
+[01-Mar-2016 15:04:02 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 26
+[01-Mar-2016 15:04:02 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 27
+[01-Mar-2016 15:04:02 America/Chicago] PHP Notice:  Undefined variable: user in /home/team1/public_html/includes/login.php on line 30
+[01-Mar-2016 15:04:25 America/Chicago] PHP Notice:  Undefined variable: user in /home/team1/public_html/includes/login.php on line 6
+[01-Mar-2016 15:04:25 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 26
+[01-Mar-2016 15:04:25 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 27
+[01-Mar-2016 15:04:25 America/Chicago] PHP Notice:  Undefined variable: user in /home/team1/public_html/includes/login.php on line 30
+[01-Mar-2016 15:04:47 America/Chicago] PHP Notice:  Undefined variable: user in /home/team1/public_html/includes/login.php on line 6
+[01-Mar-2016 15:04:47 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 25
+[01-Mar-2016 15:04:47 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 26
+[01-Mar-2016 15:04:47 America/Chicago] PHP Notice:  Undefined variable: user in /home/team1/public_html/includes/login.php on line 29
+[01-Mar-2016 15:04:47 America/Chicago] PHP Notice:  Undefined variable: password in /home/team1/public_html/includes/login.php on line 29
+[01-Mar-2016 15:06:29 America/Chicago] PHP Notice:  Undefined variable: userSession in /home/team1/public_html/includes/login.php on line 6
+[01-Mar-2016 15:06:29 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 26
+[01-Mar-2016 15:06:29 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 27
+[01-Mar-2016 15:07:58 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home/team1/public_html/includes/login.php on line 15
+[01-Mar-2016 15:08:12 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 26
+[01-Mar-2016 15:08:12 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 27
+[01-Mar-2016 15:09:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 27
+[01-Mar-2016 15:09:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 28
+[01-Mar-2016 15:10:30 America/Chicago] PHP Notice:  Undefined index: token in /home/team1/public_html/includes/login.php on line 15
+[01-Mar-2016 15:10:46 America/Chicago] PHP Notice:  Undefined index: HTTP_REFERER in /home/team1/public_html/includes/login.php on line 13
+[01-Mar-2016 15:11:10 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 27
+[01-Mar-2016 15:11:10 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 28
+[01-Mar-2016 17:32:33 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/team1/public_html/includes/edit.php on line 7
+[01-Mar-2016 17:33:00 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/team1/public_html/includes/edit.php on line 8
+[01-Mar-2016 17:33:07 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/team1/public_html/includes/edit.php on line 8
+[01-Mar-2016 17:33:58 America/Chicago] PHP Notice:  Undefined index: item1 in /home/team1/public_html/includes/edit.php on line 5
+[01-Mar-2016 17:33:58 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/team1/public_html/includes/edit.php on line 10
+[01-Mar-2016 17:34:43 America/Chicago] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/team1/public_html/includes/edit.php on line 8
+[01-Mar-2016 17:35:02 America/Chicago] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/team1/public_html/includes/edit.php on line 8
+[01-Mar-2016 17:35:11 America/Chicago] PHP Notice:  Undefined index: item1 in /home/team1/public_html/includes/edit.php on line 5
+[01-Mar-2016 17:36:47 America/Chicago] PHP Notice:  Undefined index: item1 in /home/team1/public_html/includes/edit.php on line 5
+[01-Mar-2016 17:39:36 America/Chicago] PHP Notice:  Undefined index: item1 in /home/team1/public_html/includes/edit.php on line 5
+[01-Mar-2016 17:40:58 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/team1/public_html/includes/edit.php on line 8
+[01-Mar-2016 17:41:13 America/Chicago] PHP Parse error:  syntax error, unexpected '$description' (T_VARIABLE) in /home/team1/public_html/includes/edit.php on line 6
+[01-Mar-2016 17:41:25 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/team1/public_html/includes/edit.php on line 8
+[01-Mar-2016 17:42:17 America/Chicago] PHP Notice:  Undefined index: item1 in /home/team1/public_html/includes/edit.php on line 5
+[01-Mar-2016 17:42:32 America/Chicago] PHP Notice:  Undefined index: item1 in /home/team1/public_html/includes/edit.php on line 5
+[01-Mar-2016 17:46:43 America/Chicago] PHP Notice:  Undefined index: item1 in /home/team1/public_html/includes/edit.php on line 5
+[01-Mar-2016 17:47:13 America/Chicago] PHP Notice:  Undefined index: item1 in /home/team1/public_html/includes/edit.php on line 5
+[01-Mar-2016 17:53:58 America/Chicago] PHP Notice:  Undefined index: item1 in /home/team1/public_html/includes/edit.php on line 5
+[01-Mar-2016 18:17:37 America/Chicago] PHP Notice:  Undefined index: value in /home/team1/public_html/includes/processUpdateTopTen.php on line 5
+[01-Mar-2016 18:17:37 America/Chicago] PHP Notice:  Undefined index: pk in /home/team1/public_html/includes/processUpdateTopTen.php on line 6
+[01-Mar-2016 19:21:38 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/updateTopTen.php on line 129
+[01-Mar-2016 19:21:38 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/updateTopTen.php on line 129
+[01-Mar-2016 19:21:38 America/Chicago] PHP Warning:  include(): Failed opening '../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/updateTopTen.php on line 129
+[01-Mar-2016 19:21:38 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/includes/updateTopTen.php on line 132
+[01-Mar-2016 19:21:58 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/updateTopTen.php on line 129
+[01-Mar-2016 19:21:58 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/updateTopTen.php on line 129
+[01-Mar-2016 19:21:58 America/Chicago] PHP Warning:  include(): Failed opening '../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/updateTopTen.php on line 129
+[01-Mar-2016 19:21:58 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/includes/updateTopTen.php on line 132
+[01-Mar-2016 19:22:17 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/updateTopTen.php on line 129
+[01-Mar-2016 19:22:17 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/updateTopTen.php on line 129
+[01-Mar-2016 19:22:17 America/Chicago] PHP Warning:  include(): Failed opening '../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/updateTopTen.php on line 129
+[01-Mar-2016 19:22:17 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/includes/updateTopTen.php on line 132
+[01-Mar-2016 19:33:55 America/Chicago] PHP Notice:  Undefined variable: update in /home/team1/public_html/includes/login.php on line 6
+[01-Mar-2016 19:36:38 America/Chicago] PHP Notice:  Undefined variable: update in /home/team1/public_html/includes/updateTopTen.php on line 123
+[01-Mar-2016 19:36:39 America/Chicago] PHP Notice:  Undefined variable: update in /home/team1/public_html/includes/updateTopTen.php on line 123
+[01-Mar-2016 19:36:49 America/Chicago] PHP Notice:  Undefined variable: update in /home/team1/public_html/includes/updateTopTen.php on line 123
+[01-Mar-2016 19:38:22 America/Chicago] PHP Notice:  Undefined variable: update in /home/team1/public_html/includes/updateTopTen.php on line 123
+[01-Mar-2016 19:44:29 America/Chicago] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ',' or ')' in /home/team1/public_html/includes/updateTopTen.php on line 123
+[01-Mar-2016 19:50:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 29
+[01-Mar-2016 19:50:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 30
+[01-Mar-2016 19:50:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team1/public_html/includes/login.php:29) in /home/team1/public_html/includes/login.php on line 37
+[01-Mar-2016 19:51:13 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 29
+[01-Mar-2016 19:51:13 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/login.php on line 30
+[02-Mar-2016 13:31:46 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/team1/public_html/includes/contact.php on line 5
+[02-Mar-2016 13:32:29 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/team1/public_html/includes/contact.php on line 5
+[02-Mar-2016 13:32:45 America/Chicago] PHP Parse error:  syntax error, unexpected '$phone' (T_VARIABLE) in /home/team1/public_html/includes/contact.php on line 5
+[02-Mar-2016 13:33:18 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/team1/public_html/includes/contact.php on line 5
+[02-Mar-2016 13:34:57 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/team1/public_html/includes/contact.php on line 9
+[02-Mar-2016 13:34:57 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/team1/public_html/includes/contact.php on line 10
+[02-Mar-2016 13:34:57 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/team1/public_html/includes/contact.php on line 12
+[02-Mar-2016 13:34:57 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/team1/public_html/includes/contact.php on line 14
+[02-Mar-2016 13:38:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/team1/public_html/includes/contact.php on line 11
+[02-Mar-2016 13:38:48 America/Chicago] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/team1/public_html/includes/contact.php on line 11
+[02-Mar-2016 17:24:17 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team1/public_html/includes/sponsorship_form.php:31) in /home/team1/public_html/includes/sponsorship_form.php on line 147
+[02-Mar-2016 17:26:04 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team1/public_html/includes/sponsorship_form.php:31) in /home/team1/public_html/includes/sponsorship_form.php on line 147
+[02-Mar-2016 17:29:22 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team1/public_html/includes/sponsorship_form.php:31) in /home/team1/public_html/includes/sponsorship_form.php on line 147
+[02-Mar-2016 17:29:28 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team1/public_html/includes/sponsorship_form.php:31) in /home/team1/public_html/includes/sponsorship_form.php on line 147
+[02-Mar-2016 17:29:50 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team1/public_html/includes/sponsorship_form.php:31) in /home/team1/public_html/includes/sponsorship_form.php on line 147
+[02-Mar-2016 17:30:16 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team1/public_html/includes/sponsorship_form.php:31) in /home/team1/public_html/includes/sponsorship_form.php on line 147
+[02-Mar-2016 17:30:21 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team1/public_html/includes/sponsorship_form.php:31) in /home/team1/public_html/includes/sponsorship_form.php on line 147
+[02-Mar-2016 17:31:26 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team1/public_html/includes/sponsorship_form.php:31) in /home/team1/public_html/includes/sponsorship_form.php on line 147
+[02-Mar-2016 19:32:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team1/public_html/includes/sponsorship_form.php:26) in /home/team1/public_html/includes/sponsorship_form.php on line 131
+[02-Mar-2016 17:32:40 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team1/public_html/includes/sponsorship_form.php:31) in /home/team1/public_html/includes/sponsorship_form.php on line 147
+[02-Mar-2016 17:33:54 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team1/public_html/includes/sponsorship_form.php:31) in /home/team1/public_html/includes/sponsorship_form.php on line 147
+[02-Mar-2016 17:34:44 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team1/public_html/includes/sponsorship_form.php:31) in /home/team1/public_html/includes/sponsorship_form.php on line 147
+[07-Mar-2016 16:26:18 America/Chicago] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/team1/etc/db.php on line 2
+[09-Mar-2016 19:30:59 America/Chicago] PHP Warning:  Unterminated comment starting line 9 in /home/team1/public_html/includes/login.php on line 9
+[09-Mar-2016 19:31:00 America/Chicago] PHP Warning:  Unterminated comment starting line 9 in /home/team1/public_html/includes/login.php on line 9
+[09-Mar-2016 19:49:48 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[09-Mar-2016 19:49:48 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[09-Mar-2016 19:49:48 America/Chicago] PHP Warning:  include(): Failed opening '../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/admin.php on line 99
+[09-Mar-2016 19:49:48 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/includes/admin.php on line 101
+[09-Mar-2016 22:12:20 America/Chicago] PHP Parse error:  syntax error, unexpected '"<span class=\"color-red\">Inv' (T_CONSTANT_ENCAPSED_STRING) in /home/team1/public_html/includes/sponsorship_form.php on line 114
+[09-Mar-2016 22:21:08 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/team1/public_html/includes/sponsorship_form.php on line 172
+[10-Mar-2016 21:10:11 America/Chicago] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/team1/etc/db.php on line 2
+[11-Mar-2016 14:15:44 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[11-Mar-2016 14:15:44 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[11-Mar-2016 14:15:44 America/Chicago] PHP Warning:  include(): Failed opening '../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/admin.php on line 99
+[11-Mar-2016 14:15:44 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/includes/admin.php on line 101
+[14-Mar-2016 09:59:09 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 09:59:09 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 09:59:09 America/Chicago] PHP Warning:  include(): Failed opening '../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 09:59:09 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/includes/admin.php on line 101
+[14-Mar-2016 12:13:18 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:13:18 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:13:18 America/Chicago] PHP Warning:  include(): Failed opening '../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:13:18 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/includes/admin.php on line 101
+[14-Mar-2016 12:13:31 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:13:31 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:13:31 America/Chicago] PHP Warning:  include(): Failed opening '../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:13:31 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/includes/admin.php on line 101
+[14-Mar-2016 12:13:33 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:13:33 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:13:33 America/Chicago] PHP Warning:  include(): Failed opening '../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:13:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/includes/admin.php on line 101
+[14-Mar-2016 12:13:45 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:13:45 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:13:45 America/Chicago] PHP Warning:  include(): Failed opening '../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:13:45 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/includes/admin.php on line 101
+[14-Mar-2016 12:14:13 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:14:13 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:14:13 America/Chicago] PHP Warning:  include(): Failed opening '../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:14:13 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/includes/admin.php on line 101
+[14-Mar-2016 12:14:27 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:14:27 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:14:27 America/Chicago] PHP Warning:  include(): Failed opening '../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:14:27 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/includes/admin.php on line 101
+[14-Mar-2016 12:15:20 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:15:20 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:15:20 America/Chicago] PHP Warning:  include(): Failed opening '../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:15:20 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/includes/admin.php on line 101
+[14-Mar-2016 12:15:37 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:15:37 America/Chicago] PHP Warning:  include(../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:15:37 America/Chicago] PHP Warning:  include(): Failed opening '../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/admin.php on line 99
+[14-Mar-2016 12:15:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/includes/admin.php on line 101
+[14-Mar-2016 17:21:39 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/team1/public_html/includes/admin.php on line 21
+[14-Mar-2016 17:22:21 America/Chicago] PHP Warning:  require(../../../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 11
+[14-Mar-2016 17:22:21 America/Chicago] PHP Warning:  require(../../../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 11
+[14-Mar-2016 17:22:21 America/Chicago] PHP Fatal error:  require(): Failed opening required '../../../etc/db.php' (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/admin.php on line 11
+[14-Mar-2016 17:24:04 America/Chicago] PHP Notice:  Undefined index: status in /home/team1/public_html/includes/admin.php on line 377
+[14-Mar-2016 17:24:14 America/Chicago] PHP Notice:  Undefined index: status in /home/team1/public_html/includes/admin.php on line 377
+[14-Mar-2016 17:24:14 America/Chicago] PHP Notice:  Undefined index: status in /home/team1/public_html/includes/admin.php on line 377
+[14-Mar-2016 17:26:52 America/Chicago] PHP Notice:  Undefined index: status in /home/team1/public_html/includes/admin.php on line 235
+[14-Mar-2016 17:26:52 America/Chicago] PHP Notice:  Undefined index: status in /home/team1/public_html/includes/admin.php on line 235
+[14-Mar-2016 17:33:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'btn' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/admin.php on line 247
+[14-Mar-2016 17:36:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/team1/public_html/includes/admin.php on line 248
+[14-Mar-2016 17:36:42 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home/team1/public_html/includes/admin.php on line 248
+[14-Mar-2016 17:36:43 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home/team1/public_html/includes/admin.php on line 248
+[14-Mar-2016 18:16:01 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/team1/public_html/includes/admin.php on line 19
+[14-Mar-2016 18:16:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/team1/public_html/includes/admin.php on line 19
+[14-Mar-2016 18:16:14 America/Chicago] PHP Notice:  Undefined index: username in /home/team1/public_html/includes/admin.php on line 8
+[14-Mar-2016 18:16:14 America/Chicago] PHP Notice:  Undefined index: password in /home/team1/public_html/includes/admin.php on line 8
+[14-Mar-2016 18:16:14 America/Chicago] PHP Notice:  Undefined variable: con in /home/team1/public_html/includes/admin.php on line 9
+[14-Mar-2016 18:16:14 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/includes/admin.php on line 9
+[14-Mar-2016 18:16:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/team1/public_html/includes/admin.php on line 10
+[14-Mar-2016 18:16:14 America/Chicago] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/team1/public_html/includes/admin.php on line 11
+[14-Mar-2016 18:16:14 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/admin.php on line 12
+[14-Mar-2016 18:16:14 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/admin.php on line 13
+[14-Mar-2016 18:16:14 America/Chicago] PHP Notice:  Undefined index: username in /home/team1/public_html/includes/admin.php on line 16
+[14-Mar-2016 18:16:14 America/Chicago] PHP Notice:  Undefined index: password in /home/team1/public_html/includes/admin.php on line 16
+[14-Mar-2016 18:16:14 America/Chicago] PHP Notice:  Undefined variable: token in /home/team1/public_html/includes/admin.php on line 148
+[14-Mar-2016 18:17:20 America/Chicago] PHP Notice:  Undefined index: username in /home/team1/public_html/includes/admin.php on line 9
+[14-Mar-2016 18:17:20 America/Chicago] PHP Notice:  Undefined index: password in /home/team1/public_html/includes/admin.php on line 9
+[14-Mar-2016 18:17:20 America/Chicago] PHP Notice:  Undefined variable: con in /home/team1/public_html/includes/admin.php on line 10
+[14-Mar-2016 18:17:20 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/includes/admin.php on line 10
+[14-Mar-2016 18:17:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/team1/public_html/includes/admin.php on line 11
+[14-Mar-2016 18:17:20 America/Chicago] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/team1/public_html/includes/admin.php on line 12
+[14-Mar-2016 18:17:20 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/admin.php on line 13
+[14-Mar-2016 18:17:20 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/admin.php on line 14
+[14-Mar-2016 18:17:20 America/Chicago] PHP Notice:  Undefined index: username in /home/team1/public_html/includes/admin.php on line 17
+[14-Mar-2016 18:17:20 America/Chicago] PHP Notice:  Undefined index: password in /home/team1/public_html/includes/admin.php on line 17
+[14-Mar-2016 18:17:20 America/Chicago] PHP Notice:  Undefined variable: token in /home/team1/public_html/includes/admin.php on line 149
+[14-Mar-2016 18:18:14 America/Chicago] PHP Notice:  Undefined variable: token in /home/team1/public_html/includes/admin.php on line 151
+[14-Mar-2016 18:18:27 America/Chicago] PHP Notice:  Undefined variable: con in /home/team1/public_html/includes/admin.php on line 10
+[14-Mar-2016 18:18:27 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/includes/admin.php on line 10
+[14-Mar-2016 18:18:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/team1/public_html/includes/admin.php on line 11
+[14-Mar-2016 18:18:27 America/Chicago] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/team1/public_html/includes/admin.php on line 12
+[14-Mar-2016 18:18:27 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/admin.php on line 13
+[14-Mar-2016 18:18:27 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/team1/public_html/includes/admin.php on line 14
+[14-Mar-2016 18:18:27 America/Chicago] PHP Notice:  Undefined variable: token in /home/team1/public_html/includes/admin.php on line 151
+[14-Mar-2016 18:18:55 America/Chicago] PHP Notice:  Undefined variable: token in /home/team1/public_html/includes/admin.php on line 152
+[14-Mar-2016 18:19:01 America/Chicago] PHP Notice:  Undefined variable: token in /home/team1/public_html/includes/admin.php on line 152
+[14-Mar-2016 18:19:12 America/Chicago] PHP Notice:  Undefined variable: token in /home/team1/public_html/includes/admin.php on line 152
+[14-Mar-2016 18:19:27 America/Chicago] PHP Notice:  Undefined variable: token in /home/team1/public_html/includes/admin.php on line 152
+[14-Mar-2016 18:20:03 America/Chicago] PHP Notice:  Undefined variable: token in /home/team1/public_html/includes/admin.php on line 154
+[14-Mar-2016 19:22:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/team1/public_html/includes/admin.php on line 325
+[14-Mar-2016 19:35:35 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/team1/public_html/includes/donate.php on line 2
+[14-Mar-2016 20:02:02 America/Chicago] PHP Warning:  include(../../../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 227
+[14-Mar-2016 20:02:02 America/Chicago] PHP Warning:  include(../../../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/includes/admin.php on line 227
+[14-Mar-2016 20:02:02 America/Chicago] PHP Warning:  include(): Failed opening '../../../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/includes/admin.php on line 227
+[14-Mar-2016 20:13:08 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/team1/public_html/includes/admin.php on line 175
+[14-Mar-2016 21:39:51 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home/team1/public_html/includes/calendar.php on line 143
+[14-Mar-2016 21:54:05 America/Chicago] PHP Parse error:  syntax error, unexpected '%' in /home/team1/public_html/includes/calendar.php on line 130
+[14-Mar-2016 21:55:49 America/Chicago] PHP Fatal error:  Call to undefined function str_to_date() in /home/team1/public_html/includes/calendar.php on line 138
+[16-Mar-2016 18:10:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team1/public_html/includes/contact.php:45) in /home/team1/public_html/includes/contact.php on line 57
+[16-Mar-2016 18:11:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team1/public_html/includes/contact.php:45) in /home/team1/public_html/includes/contact.php on line 57
+[16-Mar-2016 18:55:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team1/public_html/includes/raffle_donation_form.php:26) in /home/team1/public_html/includes/raffle_donation_form.php on line 87

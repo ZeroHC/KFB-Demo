@@ -1,0 +1,53 @@
+[03-Feb-2016 00:00:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.php on line 49
+[03-Feb-2016 00:01:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.php on line 49
+[03-Feb-2016 00:01:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.php on line 49
+[03-Feb-2016 00:01:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.php on line 49
+[03-Feb-2016 00:01:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.php on line 49
+[03-Feb-2016 00:02:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.php on line 49
+[03-Feb-2016 00:02:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.php on line 49
+[03-Feb-2016 00:02:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.html on line 49
+[03-Feb-2016 00:02:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.html on line 49
+[03-Feb-2016 00:05:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.php on line 49
+[03-Feb-2016 00:05:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.php on line 49
+[03-Feb-2016 00:05:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.php on line 49
+[03-Feb-2016 00:06:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.php on line 49
+[03-Feb-2016 00:06:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.php on line 49
+[03-Feb-2016 00:07:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.php on line 49
+[03-Feb-2016 00:07:18 America/Chicago] PHP Warning:  include(/includes/footer.php): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 197
+[03-Feb-2016 00:07:18 America/Chicago] PHP Warning:  include(): Failed opening '/includes/footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/index.php on line 197
+[03-Feb-2016 00:07:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/footer.php on line 49
+[01-Mar-2016 13:03:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/team1/public_html/index.php on line 11
+[01-Mar-2016 13:06:46 America/Chicago] PHP Warning:  Division by zero in /home/team1/public_html/index.php on line 3
+[01-Mar-2016 13:06:46 America/Chicago] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 3
+[01-Mar-2016 13:06:46 America/Chicago] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 3
+[01-Mar-2016 13:06:46 America/Chicago] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/index.php on line 3
+[01-Mar-2016 18:20:00 America/Chicago] PHP Warning:  include(../../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 212
+[01-Mar-2016 18:20:00 America/Chicago] PHP Warning:  include(../../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 212
+[01-Mar-2016 18:20:00 America/Chicago] PHP Warning:  include(): Failed opening '../../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/index.php on line 212
+[01-Mar-2016 18:20:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/index.php on line 215
+[01-Mar-2016 20:17:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'topbar' (T_STRING), expecting ',' or ';' in /home/team1/public_html/includes/header.html on line 59
+[01-Mar-2016 21:44:20 America/Chicago] PHP Warning:  include(../../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 74
+[01-Mar-2016 21:44:20 America/Chicago] PHP Warning:  include(../../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 74
+[01-Mar-2016 21:44:20 America/Chicago] PHP Warning:  include(): Failed opening '../../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/index.php on line 74
+[01-Mar-2016 21:44:20 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/team1/public_html/index.php on line 76
+[02-Mar-2016 12:10:45 America/Chicago] PHP Warning:  include(assets/modal.html): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 162
+[02-Mar-2016 12:10:45 America/Chicago] PHP Warning:  include(assets/modal.html): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 162
+[02-Mar-2016 12:10:45 America/Chicago] PHP Warning:  include(): Failed opening 'assets/modal.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/index.php on line 162
+[02-Mar-2016 12:11:03 America/Chicago] PHP Warning:  include(assets/modal.html): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 162
+[02-Mar-2016 12:11:03 America/Chicago] PHP Warning:  include(assets/modal.html): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 162
+[02-Mar-2016 12:11:03 America/Chicago] PHP Warning:  include(): Failed opening 'assets/modal.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/index.php on line 162
+[02-Mar-2016 12:11:31 America/Chicago] PHP Warning:  include(assets/modal.html): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 162
+[02-Mar-2016 12:11:31 America/Chicago] PHP Warning:  include(assets/modal.html): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 162
+[02-Mar-2016 12:11:31 America/Chicago] PHP Warning:  include(): Failed opening 'assets/modal.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/index.php on line 162
+[02-Mar-2016 12:11:36 America/Chicago] PHP Warning:  include(assets/modal.html): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 162
+[02-Mar-2016 12:11:36 America/Chicago] PHP Warning:  include(assets/modal.html): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 162
+[02-Mar-2016 12:11:36 America/Chicago] PHP Warning:  include(): Failed opening 'assets/modal.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/index.php on line 162
+[14-Mar-2016 23:25:35 America/Chicago] PHP Warning:  include(../../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 271
+[14-Mar-2016 23:25:35 America/Chicago] PHP Warning:  include(../../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 271
+[14-Mar-2016 23:25:35 America/Chicago] PHP Warning:  include(): Failed opening '../../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/index.php on line 271
+[14-Mar-2016 23:26:20 America/Chicago] PHP Warning:  include(../../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 271
+[14-Mar-2016 23:26:20 America/Chicago] PHP Warning:  include(../../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 271
+[14-Mar-2016 23:26:20 America/Chicago] PHP Warning:  include(): Failed opening '../../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/index.php on line 271
+[14-Mar-2016 23:26:27 America/Chicago] PHP Warning:  include(../../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 271
+[14-Mar-2016 23:26:27 America/Chicago] PHP Warning:  include(../../etc/db.php): failed to open stream: No such file or directory in /home/team1/public_html/index.php on line 271
+[14-Mar-2016 23:26:27 America/Chicago] PHP Warning:  include(): Failed opening '../../etc/db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team1/public_html/index.php on line 271
